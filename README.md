@@ -63,17 +63,17 @@ example-airplot
 The Identity System
 The identity system usually starts after the logo is complete. The purpose of the identity system is to form a systematic visual language around the logo — one that compliments the design thinking of the logo and offers a family of useful, flexible elements that will help to design marketing and business collateral. Here are some examples:
 
-Fortaleza 2020 by Guivillar
+- Fortaleza 2020 by Guivillar
 
-identitysystem-1-fortaleza
+- identitysystem-1-fortaleza
 
-Handsome Coffee Roasters by Ptarmak
+- Handsome Coffee Roasters by Ptarmak
 
-identitysystem-1-handsomecoffee
+- identitysystem-1-handsomecoffee
 
-Patina Restaurant Group by Mucca Design
+- Patina Restaurant Group by Mucca Design
 
-identitysystem-3-patina
+- identitysystem-3-patina
 
 ## The Style Guidelines
 The style guidelines contain and prescribe the logo usage rules, typeface system, color palette, layout guidelines, and more. They exist so that others can create design collateral and marketing materials that will have a cohesive look and voice.
