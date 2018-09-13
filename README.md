@@ -17,7 +17,7 @@ An Identity describes the visual devices used to represent the company. Identity
 A Logo is the central, identifiable visual element that helps customers discover, share and remember a company's brand. Usually it's in the form of an icon (mark or symbol), logotype, or combination of the two. The main purpose of a logo is summed up nicely as the five principles of effective logo design in this Smashing Magazine article.
 smashingmag-5principles
 
-Phase 1: Research, Vision & Design Brief
+### Phase 1: Research, Vision & Design Brief
 phase1
 
 This phase should be as thorough as needed — depending on the depth of research and size of the company. It's the most crucial part of the overall process, and should result in a design brief that guides the rest of the project.
@@ -33,20 +33,20 @@ What benefits do you want customers to associate with your brand? What is the vi
 Other brand image concerns: market awareness, emotional associations, value to the consumer, brand perception vs. consumer behavior, changes desired in the brand-consumer relationship over time.
 As you can tell, it's complicated. Two agencies who I think do a good job with their brand research are Landor and Fi. It shows in the way that they describe their completed work as challenge-and-solution projects.
 
-The Design Brief
+## The Design Brief
 It's important to have a design (or creative) brief if the brand identity project is bigger than one designer doing work for a small local business. A design brief should contain summaries from the research phase, such as: target audience(s), messaging objectives, values and mission of the brand, and the brand's products/services offering. It should also include budget, project schedule, file formats for delivery, and other practical needs.
 
 If you're looking for tools and help on how to write a design brief for a brand identity project, explore the following: Freelance Switch Brief Tips, Link List and Logo Design Brief, 99designs, Just Creative, and FreePDF Templates.
 
-Phase 2: Logo, Identity, & Guidelines
+### Phase 2: Logo, Identity, & Guidelines
 phase2
 
 After the research phase is complete and a design brief has been created, it's time to start designing the logo and identity system.
 
-The Logo
+## The Logo
 There are many ways to start designing a logo, but most often times you'll see designers begin by sketching out dozens if not hundreds of iterations on paper. The process of getting concepts down on paper and then iterating on those ideas can unlock new directions to explore and final solutions that you wouldn't have normally arrived at when starting on the computer. After selecting your best sketched concepts, you should start iterating on them digitally.
 
-Here's a peak behind the curtain of a few logo concept sketches as they became final digital solutions:
+*Here's a peak behind the curtain of a few logo concept sketches as they became final digital solutions:
 
 Firefox Logo by Martijn Rijven of Bolt Graphic, art direction by Wolff Olins
 
@@ -75,12 +75,12 @@ Patina Restaurant Group by Mucca Design
 
 identitysystem-3-patina
 
-The Style Guidelines
+## The Style Guidelines
 The style guidelines contain and prescribe the logo usage rules, typeface system, color palette, layout guidelines, and more. They exist so that others can create design collateral and marketing materials that will have a cohesive look and voice.
 
 Style guidelines have traditionally been produced as print and web-ready PDFs. They're the core of the identity design, and usually accompany the logo, templates, fonts and other resources packaged together to make designing for the brand easier. Style guidelines are in-depth rules about logo usage, styling, and layout, and are always interesting to browse through.
 
-brand-style-guidelines
+## brand-style-guidelines
 
 Here are a few style guidelines of popular brands: Skype (pdf, brand page), BestBuy (Euro Guidelines), BBC, Adobe, Apple, Google, and Walmart. Looking for more? Dig into this list by Logo Design Love.
 
@@ -96,7 +96,7 @@ These days, the documentation that a designer must deliver has a heavy digital s
 
 Don't forget to check out our simple Creative Market brand page, and download the logo if you want to promote and share Creative Market.
 
-Phase 3: Monitoring & Rebranding
+### Phase 3: Monitoring & Rebranding
 Lastly, after a new brand identity has launched, it's important to monitor and care for it, as it's a living and breathing thing that interacts with your customers. Honestly, that's a loaded statement as there are many ways to properly care for a brand. Regardless, over time, if your target audience shifts, the market evolves, or the brand's products and services change, it may be time for a rebrand. The main challenge with rebranding is trying to maintain familiarity and consistency so that your customers will remember you.
 
 There are two really awesome sites that give an inside look when prominent brands get rebranded: Rebrand and Under Consideration's Brand New. Here is a quick sampling of their short before and after case studies:
