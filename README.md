@@ -125,9 +125,9 @@ Want to learn the ins and outs of creating a brand identity for a business or yo
 
 Courtney is a talented, respected designer. She formerly ran the popular design blog Design Work Life, and produces well-designed, thoughtful brand identities alongside her husband at their 2-person studio, Seamless Creative. She recently launched her latest venture, En Route Workshop, where she works with people who are going places to develop brands that get them there.
 
-skillshare-brandidentity
+## skillshare-brandidentity
 
-Extended Reading
+## Extended Reading
 Brand Thinking and other Noble Pursuits by Debbie Millman
 This book describes itself as a series of illuminating and spirited conversations on branding with 22 top design executives, strategists, and critics. Debbie interviews an all-star cast that makes purchasing this book a must!
 The Brand Gap by Marty Neumeier
