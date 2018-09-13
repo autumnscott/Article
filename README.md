@@ -84,11 +84,11 @@ Style guidelines have traditionally been produced as print and web-ready PDFs. T
 
 Here are a few style guidelines of popular brands: Skype (pdf, brand page), BestBuy (Euro Guidelines), BBC, Adobe, Apple, Google, and Walmart. Looking for more? Dig into this list by Logo Design Love.
 
-brandguidelines-bestbuy
+- brandguidelines-bestbuy
 
-brandguidelines-walmart
+- brandguidelines-walmart
 
-brandguidelines-google
+- brandguidelines-google
 
 These days, the documentation that a designer must deliver has a heavy digital skew, with an emphasis on development-ready files, such as Style Tiles, Element Collages, Style Prototypes, SASS documentation, a Logo/Brand download page, among others.
 
@@ -130,13 +130,18 @@ Courtney is a talented, respected designer. She formerly ran the popular design 
 ## Extended Reading
 Brand Thinking and other Noble Pursuits by Debbie Millman
 This book describes itself as a series of illuminating and spirited conversations on branding with 22 top design executives, strategists, and critics. Debbie interviews an all-star cast that makes purchasing this book a must!
+
 The Brand Gap by Marty Neumeier
 Neumeier has been an expert practicing in the field of brand identity, and this timeless book offers a unified theory on brand-building.
+
 Dynamic Identities: How to Create a Living Brand by Irene Van Nes
 This book has many examples of dynamic brand identities that are malleable, creative systems of visual identification.
+
 Branding Matters by Jason VanLue
 Jason explores the core essentials to the purpose of good branding for small businesses, offering easy access to design exercises that will you shape your brand's vision, strategy, identity, experience and interaction.
+
 Logo Design Love: The Book by David Airey
 This valuable resource outlines the steps of creating an effective logo, and offers valuable insights, exploration processes and more.
+
 Designig Brand Identity by Alina Wheeler
 Alina's book is a well-rounded, deep dive into the world of designing brand identities with tons of great examples. Alina's expertise shines as she explains the brand identity design process through the phases of ideals, elements and dynamics. Thanks to Ben Tibben for recommending this resource.
